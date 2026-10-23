@@ -73,6 +73,12 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 
 ---
 
+## 🐛 问题反馈与已知清单 (Issues & Compatibility)
+
+机型兼容性测试记录与问题追踪参见：[docs/ISSUES.md](docs/ISSUES.md)。
+
+---
+
 ## 📄 开源许可证 (License)
 
 本项目采用 [MIT License](LICENSE) 开源。
